@@ -1,2 +1,2 @@
 # Cool Papers
-Super short summaries of geil-ass papers in the issues section
+Super short summaries of cool papers
